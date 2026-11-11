@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://www.rssboard.org/media-rss"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+	<channel>
+		<title>InDices: An Indie RPG Podcast (REMOVED)</title>
+		<link>http://berdan.ca/indices/</link>
+		<lastBuildDate>Fri, 11 Nov 2026 15:19:00 +0000</lastBuildDate>
+		<language>en-CA</language>
+		<generator>Site-Server v6.0.0-a8ca168185124e44e638948da09ce4ed8a484d19-313197 (http://www.squarespace.com)</generator>
+		<itunes:author>Andy Berdan</itunes:author>
+		<itunes:subtitle>InDices: An Indie RPG Podcast</itunes:subtitle>
+		<itunes:explicit>yes</itunes:explicit>
+		<description>
+			<![CDATA[InDices was an actual-play podcast with a group of gamers that focus entirely on indie tabletop roleplaying games. It has now been unpublished after a decade of inactivity.]]>
+		</description>
+		<itunes:keywords>indices,dice,rpg,game,actual,play,actual,play,indie,talk,campaign,roleplaying</itunes:keywords>
+		<itunes:summary>InDices was an actual-play podcast with a group of gamers that focus entirely on indie tabletop roleplaying games. It has now been unpublished after a decade of inactivity.</itunes:summary>
+		<itunes:category text="Games &amp; Hobbies">
+			<itunes:category text="Other Games"/></itunes:category>
+		<itunes:owner>
+			<itunes:email>andy@berdan.ca</itunes:email>
+		</itunes:owner>
+	</channel>
+</rss>
